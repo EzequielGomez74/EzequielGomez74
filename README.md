@@ -138,6 +138,17 @@ Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas
       </a>
       <br>Less
     </td>
+  <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>ES6
+    </td>
+  <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>Photoshop
   </tr>
 </table>
 
