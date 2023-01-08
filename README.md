@@ -120,6 +120,24 @@ Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas
       </a>
       <br>MongoDB
     </td>
+   <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>Exoress
+    </td>
+   <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>Typescript
+    </td>
+  <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/less.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>Less
+    </td>
   </tr>
 </table>
 
