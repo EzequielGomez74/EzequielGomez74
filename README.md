@@ -6,6 +6,7 @@
 Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.</div>
 
 <br/>
+<br/>
 <div align="center" id="badges">
   <img src="https://visitcount.itsvg.in/api?id=NicoCastagnet&icon=2&color=5" alt=""/>
 </div>
