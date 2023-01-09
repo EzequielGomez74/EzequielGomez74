@@ -113,7 +113,7 @@ Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>PostreSQL
+      <br>PostgresSQL
     </td>
   <td align="center" width="100">
       <a href="#">
@@ -125,7 +125,7 @@ Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>Exoress
+      <br>Express
     </td>
    <td align="center" width="100">
       <a href="#">
