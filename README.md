@@ -87,14 +87,7 @@ Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
       </a>
       <br>Node.js
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="NodeJS" />
-      </a>
-      <br>Next.js
-    </td>
-   
+    </td> 
   <td align="center" width="100">
    <a href="#">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
@@ -126,12 +119,6 @@ Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas
         <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>Express
-    </td>
-   <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Typescript
     </td>
   <td align="center" width="100">
       <a href="#">
