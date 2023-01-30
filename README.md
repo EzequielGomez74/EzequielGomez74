@@ -28,7 +28,7 @@ https://pf-techbunny-lake.vercel.app
 </div> -->
 <br/>
 </div>
-       💻 Estas son las tecnologias con las que se trabajar actualmente
+## 💻 **Estas son las tecnologias con las que se trabajar actualmente** ##
        
 <table align="center">
   <tr>
