@@ -3,9 +3,17 @@
 <h1 align="center">¡Hola! Yo soy Ezequiel Gomez 💻 Front-End developer</h1>
 
 <div align="center">Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
-Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.</div>
+Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.
 
+Estoy actualmente en busqueda de mi primer empleo en el area IT.
 <br/>
+Proyectos Deployados:
+<br/>
+https://pi-countries-nu-tan.vercel.app
+
+</div>
+
+
 <br/>
 <div align="center" id="badges">
   <img src="https://visitcount.itsvg.in/api?id=NicoCastagnet&icon=2&color=5" alt=""/>
