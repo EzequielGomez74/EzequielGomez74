@@ -153,6 +153,12 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>ES6
     </td>
+  <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>CANVA
+    </td>
   
   </tr>
 </table>
