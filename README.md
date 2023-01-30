@@ -114,13 +114,13 @@ https://pf-techbunny-lake.vercel.app
   <br>Github
    </td>
   </tr>
+<tr>
   <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>Photoshop
   </td>
-<tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
