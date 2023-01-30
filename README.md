@@ -19,7 +19,9 @@ https://pf-techbunny-lake.vercel.app
 
 <br/>
 <div align="center" id="badges">
-  <img src="https://visitcount.itsvg.in/api?id=EzequielGomez74&icon=2&color=5" alt=""/>
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=EzequielGomez74&label=Mi%20Perfil&color=1&icon=0&pretty=false" />
+</a>
 </div>
 <!-- <div align="center" id="badges">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""/>
