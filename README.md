@@ -160,4 +160,4 @@ https://pf-techbunny-lake.vercel.app
 
 ## 📩 **Pueden contactarme en ⤵**
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:ezequiel.canob@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-gomez-b9b563208/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eze-gomez/)
