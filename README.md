@@ -28,7 +28,7 @@ https://pf-techbunny-lake.vercel.app
 </div> -->
 <br/>
 
-## 💻 **Estas son las tecnologias con las que se trabajar actualmente**
+       ## 💻 **Estas son las tecnologias con las que se trabajar actualmente**
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -121,7 +121,6 @@ https://pf-techbunny-lake.vercel.app
   </td>
   </tr>
 <tr>
-  
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
