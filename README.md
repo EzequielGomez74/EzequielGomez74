@@ -150,6 +150,7 @@ https://pf-techbunny-lake.vercel.app
         <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>Photoshop
+  </td>
   </tr>
 </table>
 
