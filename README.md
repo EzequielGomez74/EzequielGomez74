@@ -19,7 +19,7 @@ https://pf-techbunny-lake.vercel.app
 
 <br/>
 <div align="center" id="badges">
-  <img src="https://visitcount.itsvg.in/api?id=NicoCastagnet&icon=2&color=5" alt=""/>
+  <img src="https://visitcount.itsvg.in/api?id=EzequielGomez74&icon=2&color=5" alt=""/>
 </div>
 <!-- <div align="center" id="badges">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""/>
