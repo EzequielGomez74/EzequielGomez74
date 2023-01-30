@@ -4,6 +4,8 @@
 
 <div align="center">Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
 Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.
+<br/>
+<br/>
 
 Estoy actualmente en busqueda de mi primer empleo en el area IT.
 <br/>
