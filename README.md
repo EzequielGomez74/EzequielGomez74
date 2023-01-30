@@ -114,6 +114,12 @@ https://pf-techbunny-lake.vercel.app
   <br>Github
    </td>
   </tr>
+  <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>Photoshop
+  </td>
 <tr>
     <td align="center" width="100">
       <a href="#">
@@ -145,12 +151,7 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>ES6
     </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Photoshop
-  </td>
+  
   </tr>
 </table>
 
