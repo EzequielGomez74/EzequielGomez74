@@ -27,8 +27,9 @@ https://pf-techbunny-lake.vercel.app
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""/>
 </div> -->
 <br/>
-
-       ## 💻 **Estas son las tecnologias con las que se trabajar actualmente**
+</div>
+       💻 Estas son las tecnologias con las que se trabajar actualmente
+       
 <table align="center">
   <tr>
     <td align="center" width="100">
