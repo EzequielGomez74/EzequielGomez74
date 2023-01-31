@@ -11,8 +11,6 @@ Estoy actualmente en busqueda de mi primer empleo en el area IT.
 <br/>
 <br/>
 Proyectos Deployados:
-
-https://pi-countries-nu-tan.vercel.app
 <br/>
 https://pf-techbunny-lake.vercel.app
 </div>
