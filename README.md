@@ -12,6 +12,11 @@ Estoy actualmente en busqueda de mi primer empleo en el area IT.
 <br/>
 Proyectos Deployados:
 <br/>
+<br/>
+https://portfolio-ezegomez.vercel.app/
+<br/>
+<br/>
+
 https://pf-techbunny-lake.vercel.app
 </div>
 
