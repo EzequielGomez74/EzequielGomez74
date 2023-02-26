@@ -13,7 +13,7 @@ Estoy actualmente en busqueda de mi primer empleo en el area IT.
 Proyectos Deployados:
 <br/>
 <br/>
-https://portfolio-ezegomez.vercel.app/
+https://portfolio-eze-swart.vercel.app
 <br/>
 <br/>
 https://pi-countries-nu-tan.vercel.app/
