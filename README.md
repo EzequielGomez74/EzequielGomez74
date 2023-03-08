@@ -168,9 +168,9 @@ https://ezequiel-modernbank.vercel.app
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>CANVA
+      <br>SVELTE
     </td>
   <td align="center" width="100">
       <a href="#">
