@@ -32,6 +32,9 @@ https://ezeangular3d.vercel.app
 <br/>
 <br/>
 https://ezequiel-modernbank.vercel.app
+<br/>
+<br/>
+https://tailwind-ezegomez.vercel.app
 </div>
 
 
