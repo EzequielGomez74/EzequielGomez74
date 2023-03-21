@@ -188,7 +188,7 @@ https://tailwind-ezegomez.vercel.app
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>VUE.JS
+      <br>VUE
     </td>
   
   </tr>
