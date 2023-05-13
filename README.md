@@ -2,7 +2,7 @@
 
 <h1 align="center">¡Hola! Yo soy Ezequiel Gomez 💻 Front-End developer</h1>
 
-<div>Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
+<div>Amo el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
   Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.
 <br/>
 <br/>
