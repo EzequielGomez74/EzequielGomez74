@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-Estoy actualmente en busqueda de mi primer empleo en el area IT.
+
 <br/>
 <br/>
 Proyectos Deployados:
