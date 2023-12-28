@@ -13,7 +13,6 @@
 Proyectos Deployados:
 <br/>
 <br/>
-https://portfolio-eze-swart.vercel.app
 <br/>
 <br/>
 https://pi-countries-nu-tan.vercel.app/
